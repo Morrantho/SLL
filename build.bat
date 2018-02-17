@@ -1,0 +1,1 @@
+g++ -o SLL.exe Main.cpp Node.cpp LinkedList.cpp
